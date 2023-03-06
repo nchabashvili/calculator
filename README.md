@@ -1,6 +1,6 @@
 # Calculator
 
-Just a simple calculator I made for fun.
+Just a simple calculator I made for fun in React.
 
 ### `npm start`
 
